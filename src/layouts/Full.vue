@@ -3,13 +3,6 @@
     <nav class="menu">
         <a href="/">Home</a>
         <a href="/">Comunidades</a>
-        <a href="/">Comunidades</a>
-        <a href="/">Comunidades</a>
-        <a href="/">Comunidades</a>
-        <a href="/">Comunidades</a>
-        <a href="/">Comunidades</a>
-        <a href="/">Comunidades</a>
-
         <a href="/about">Sobre</a>
     </nav>
     <div class="perfil">
